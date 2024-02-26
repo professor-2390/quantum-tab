@@ -1,6 +1,6 @@
 <h1>
   Quantum Tab
-  <img src="./public/icon.png" alt="Quantum Tab Logo" width="50" height="50" align="right">
+  <img src="./public/icon.png" alt="Quantum Tab Logo" width="100" height="100" align="right">
 </h1>
 
 ![License: AGPL](https://img.shields.io/badge/License-AGPL-blue)
